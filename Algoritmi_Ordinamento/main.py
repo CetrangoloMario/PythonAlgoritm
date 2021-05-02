@@ -11,7 +11,6 @@ print(list)
 #bubble_sort(list,size)
 #insertSort(list,size)
 #mergesort(list)
-
-quickSort(list, 0,len(list)-1)
+#quickSort(list, 0,len(list)-1)
 
 print(list)
